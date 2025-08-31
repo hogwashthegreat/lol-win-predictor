@@ -1,2 +1,5 @@
+riot_comp.db-*
 riot_comp.db
 comp_model.joblib
+dl_comp_model.pt
+dl_comp_config.json
